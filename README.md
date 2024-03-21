@@ -36,13 +36,5 @@ Soy estudiante de ingenieria civil industrial con mención en Software, apasiona
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
 
-# 📊 Stats de Github:
-![](https://github-readme-stats.vercel.app/api?username=franco-anfossi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=franco-anfossi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=franco-anfossi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=franco-anfossi&icon=6&color=2)](https://visitcount.itsvg.in)
-
-  ## 💰 Puedes donar aqui
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@FrancoAnfossi) 
+## 💰 Puedes donar aqui
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@FrancoAnfossi) 
