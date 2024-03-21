@@ -1,7 +1,5 @@
 # 👋 Hola, soy Franco Anfossi:
-🚀 Sobre Mí 🚀
-
-Soy estudiante de ingenieria civil industrial con mención en Software, apasionado por aprender y a la innovación tecnológica. Tengo 21 años y estoy cursando mi carrera en la prestigiosa Pontificia Universidad Católica de Chile, donde he desarrollado no solo habilidades técnicas, sino también una fuerte capacidad para trabajar en equipo y liderar proyectos.
+🚀 Soy estudiante de ingenieria civil industrial con mención en Software, apasionado por aprender y a la innovación tecnológica. Tengo 21 años y estoy cursando mi carrera en la prestigiosa Pontificia Universidad Católica de Chile, donde he desarrollado no solo habilidades técnicas, sino también una fuerte capacidad para trabajar en equipo y liderar proyectos.
 
 🌎 Originario de Chile, Antofagasta, me he incorporado en el mundo del software con el objetivo desarrollar mi creatividad y diseñar soluciones que permitan optimizar o generar un cambio. Mi curiosidad y mi facilidad para aprender cosas nuevas me han permitido adaptarme rápidamente a diversas tecnologías y herramientas, lo que considero una de mis mayores fortalezas.
 
@@ -12,7 +10,7 @@ Soy estudiante de ingenieria civil industrial con mención en Software, apasiona
 📚 Soy un firme creyente en el poder de la educación y el aprendizaje práctico. A través de mi experiencia académica y personal, he aprendido que los mayores logros se construyen sobre la base de la perseverancia, la colaboración y una mentalidad abierta al aprendizaje.<br><br>🔍 Buscando:<br>Estoy en la búsqueda de oportunidades donde pueda aportar mi pasión por el software y el desarrollo de proyectos, y donde pueda seguir creciendo tanto profesional como personalmente. Estoy particularmente interesado en roles que me desafíen y me permitan contribuir a la creación de soluciones innovadoras.<br><br>📫 Contáctame:<br>Si te interesa trabajar juntos o simplemente quieres hablar sobre tecnología e innovación, ¡no dudes en contactarme!
 
 
-## 🌐 Redes Sociales:
+## 🌐 Redes Sociales
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/franco.anfossisignorelli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franco_anfossi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-anfossi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23476953) 
 
 ## 💻 Tech Stack
