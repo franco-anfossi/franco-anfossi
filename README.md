@@ -1,5 +1,5 @@
 # 👋 Hola, soy Franco Anfossi:
-🚀 Soy estudiante de ingenieria civil industrial con mención en Software, apasionado por aprender y a la innovación tecnológica. Tengo 21 años y estoy cursando mi carrera en la prestigiosa Pontificia Universidad Católica de Chile, donde he desarrollado no solo habilidades técnicas, sino también una fuerte capacidad para trabajar en equipo y liderar proyectos.
+🚀 Estudiante de ingenieria civil industrial con mención en Software, apasionado por aprender y a la innovación tecnológica. Tengo 21 años y estoy cursando mi carrera en la prestigiosa Pontificia Universidad Católica de Chile, donde he desarrollado no solo habilidades técnicas, sino también una fuerte capacidad para trabajar en equipo y liderar proyectos.
 
 🌎 Originario de Chile, Antofagasta, me he incorporado en el mundo del software con el objetivo desarrollar mi creatividad y diseñar soluciones que permitan optimizar o generar un cambio. Mi curiosidad y mi facilidad para aprender cosas nuevas me han permitido adaptarme rápidamente a diversas tecnologías y herramientas, lo que considero una de mis mayores fortalezas.
 
