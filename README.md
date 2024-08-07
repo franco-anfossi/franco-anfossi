@@ -10,7 +10,7 @@
 📚 Soy un fiel creyente en el poder de la educación y el aprendizaje práctico. A través de mi experiencia académica y personal, he aprendido que los mayores logros se construyen sobre la base de la perseverancia, la colaboración y una mentalidad abierta al aprendizaje.<br><br>🔍 Buscando:<br>Estoy en la búsqueda de oportunidades donde pueda aportar mi pasión por el software y el desarrollo de proyectos, y donde pueda seguir creciendo tanto profesional como personalmente. Estoy particularmente interesado en roles que me desafíen y me permitan contribuir a la creación de soluciones innovadoras y mi propio aprendizaje.<br><br>📫 Contáctame:<br>Si te interesa trabajar juntos o simplemente quieres hablar sobre tecnología e innovación, ¡no dudes en contactarme!
 
 
-## 🌐 Redes Sociales
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/franco.anfossisignorelli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franco_anfossi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-anfossi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23476953) 
 
 ## 💻 Tech Stack
@@ -34,5 +34,5 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
 
-## 💰 Puedes donar aqui
+## 🤑 Donate
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FrancoAnfossi) 
